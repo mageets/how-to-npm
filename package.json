@@ -3,12 +3,22 @@
   "version": "1.0.0",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "node test.js"
   },
   "author": "",
   "license": "ISC",
-  "description": "",
+  "description": "��m\u0000y\u0000 \u0000r\u0000e\u0000a\u0000d\u0000m\u0000e\u0000 \u0000f\u0000i\u0000l\u0000e\u0000\r\u0000 \u0000",
   "dependencies": {
-    "@linclark/pkg": "^1.0.2"
-  }
+    "@linclark/pkg": "^1.0.2",
+    "repository": "git+https://github.com/mageets/how-to-npm.git"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mageets/how-to-npm.git"
+  },
+  "bugs": {
+    "url": "https://github.com/mageets/how-to-npm/issues"
+  },
+  "homepage": "https://github.com/mageets/how-to-npm#readme"
 }
